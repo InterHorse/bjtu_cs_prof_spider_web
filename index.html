@@ -141,8 +141,7 @@
 
         $.ajax({
             async: false,
-            type: "get",
-            url: "http://data.matalking.com/professors_data.json",
+            url: "./data/professors_data.json",
             success: function (data) {//请求的返回成功的方法
                 dataList = data;
             }
