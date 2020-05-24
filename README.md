@@ -3,6 +3,8 @@
 
 只是为了方便检索导师，加上之前是个人使用，所以做的比较粗糙。
 
-页面地址：https://martinma94.github.io/bjtu_cs_prof_spider_web/
+页面地址：
+- GitHub：https://martinma94.github.io/bjtu_cs_prof_spider_web/
+- Gitee：https://interhorse.gitee.io/bjtu_cs_prof_spider_web/
 
-爬虫程序：https://github.com/MartinMa94/bjtu_cs_prof_spider
+爬虫源码：https://github.com/MartinMa94/bjtu_cs_prof_spider
